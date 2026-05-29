@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.token
+
+# Checkpoints and temp files
+checkpoint.txt
+tmp_audio.*
+*.wav
+*.mp3
+*.m4a
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Full CSV (too large for git — use sample only)
+# krishi_darshan_transcripts_full.csv
+
+# OS
+.DS_Store
+Thumbs.db
