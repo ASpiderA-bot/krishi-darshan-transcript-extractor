@@ -3,6 +3,7 @@
 Automated pipeline to extract, transcribe, and structure transcripts from the official **Doordarshan National Krishi Darshan** YouTube playlist for agricultural knowledge database enhancement.
 
 Built as part of **annam.ai · IIT Ropar Vinternship 2026** under the Vicharanashala Lab for Educational Design (VLED).
+[📄 View Full Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ASpiderA-bot/krishi-darshan-transcript-extractor/main/Krishi_Darshan_Project_Report.pdf)
 
 ---
 
